@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 ## About Me :<br><br>🔭 I’m currently working on  <br>- Learning Full Stack Development  <br>- Building small React.js and JavaScript projects  <br><br>👯 I’m looking to collaborate on  <br>- Open source beginner projects  <br>- Web development projects (React / Node.js)<br><br>🤝 I’m looking for help with  <br>- Advanced React concepts  <br>- Backend development and APIs  <br><br>🌱 I’m currently learning  <br>- React.js  <br>- Node.js  <br>- MongoDB  <br>- Generative AI basics  <br><br>💬 Ask me about  <br>- JavaScript basics  <br>- React fundamentals  <br>- Web development learning resources  <br><br>⚡ Fun fact  <br>- I love learning new technologies and building creative projects 🚀
 
 
